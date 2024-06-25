@@ -1,0 +1,14 @@
+.container {
+  padding: unset !important;
+  display: flex !important;
+  justify-content: center;
+}
+
+.loginDetailsContainer {
+  display: flex;
+  flex-direction: column;
+}
+
+.buttonDivider {
+  margin-left: 16px;
+}

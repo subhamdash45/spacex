@@ -1,0 +1,18 @@
+.homeHeaderContainer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.logout {
+  height: 32px;
+}
+
+.filterContainer {
+  display: flex;
+  justify-content: space-between;
+}
+
+.totalCount {
+  margin-bottom: 16px;
+}
